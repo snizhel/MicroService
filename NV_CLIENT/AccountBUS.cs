@@ -14,7 +14,7 @@ namespace NV_CLIENT
     class AccountBUS
     {
         static IFirebaseConfig config = new FirebaseConfig
-        { BasePath = "https://antran259820-default-rtdb.asia-southeast1.firebasedatabase.app/" };
+        { BasePath = "https://serviceemploy-5f3f5-default-rtdb.asia-southeast1.firebasedatabase.app/" };
         static FirebaseClient client = new FirebaseClient(config);
 
         public bool AddNew(Account newAccount)

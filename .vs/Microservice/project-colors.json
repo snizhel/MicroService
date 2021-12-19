@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ddf74389-eac2-4575-9269-f6ace5c9f480": {
+      "ProjectGuid": "ddf74389-eac2-4575-9269-f6ace5c9f480",
+      "DisplayName": "NV_CLIENT",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
